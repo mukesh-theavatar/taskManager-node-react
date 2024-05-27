@@ -1,0 +1,175 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Module cache
+.cache/
+.tmp/
+
+# Build directories
+build/
+dist/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# React specific
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+build/
+*.cache
+.eslintcache
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next/
+out/
+
+# Storybook files
+.storybook/
+.storybook-out/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Miscellaneous
+*.sass-cache
+*.scss-cache
+.cache/
+*.stackdump
+
+# Python specific
+*.pyc
+__pycache__/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache/
+.parcel-cache/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional stylelint cache
+.stylelintcache
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Linux specific files
+*~
+# End of OS specific ignores
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Gatsby files
+.cache/
+public/
+
+# Snowpack files
+snowpack/
+.snowpack/
+
+# Sapper files
+__sapper__/
+.sapper/
+
+# Gridsome files
+.gridsome/
+
+# Nuxt.js files
+.nuxt/
+static/sw.js
+static/workbox-*
+
+# Vuepress build output
+.vuepress/dist
+
+# vuepress v2.x temp and cache directory
+.temp
+
+# Tailwind CSS v2.1+
+tailwind.config.js
+tailwind.config.ts
+postcss.config.js
+postcss.config.ts
